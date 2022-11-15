@@ -12,7 +12,7 @@
     
     When script is placed in the body section means Script is to be executed after the HTML page loads.
     
- # JS in <body> vs <head> tag
+ # JS in body vs head tag
  
  HTML loads from top to bottom. The head loads first, then the body, and then everything inside the body.
  
